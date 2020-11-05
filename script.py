@@ -2,6 +2,7 @@
 from riotwatcher import LolWatcher, ApiError
 
 #linking with api
+#remember not to revoke api key
 lol_watcher = LolWatcher('<api-key>')
 
 #selecting region
